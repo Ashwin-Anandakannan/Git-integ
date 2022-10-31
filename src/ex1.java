@@ -4,12 +4,12 @@ public class ex1
 	{
 		if(2%2==0)
 		{
-			System.out.print("Even");
+			System.out.print("EVEN");
 			
 		}
 		else
 		{
-			System.out.print("Odd");
+			System.out.print("ODD");
 		}
 	}
 }
