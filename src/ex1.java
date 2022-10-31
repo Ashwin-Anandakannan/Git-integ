@@ -2,7 +2,14 @@ public class ex1
 {
 	public static void main(String[] args) 
 	{
-		System.out.print("Hello");
-		System.out.print("World");
+		if(2%2==0)
+		{
+			System.out.print("Even");
+			
+		}
+		else
+		{
+			System.out.print("Odd");
+		}
 	}
 }
